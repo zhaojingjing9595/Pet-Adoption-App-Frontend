@@ -1,0 +1,20 @@
+.modal-header.modal-header{
+    background-color: #563d7c;
+    justify-content: space-evenly;
+    padding: 0.5rem 1rem;
+    -webkit-box-shadow: 0 8px 6px -3px #ccc;
+    -moz-box-shadow: 0 8px 6px -3px #ccc;
+    box-shadow: 0 8px 6px -3px #ccc;
+   
+}
+
+.modal-header-btn-link.btn.btn-link{
+    color: gainsboro;
+    text-decoration: none;
+}
+
+.modal-header-btn-link.btn.btn-link:hover, .modal-header-btn-link.btn.btn-link:focus {
+color:white;
+box-shadow: none;
+
+}

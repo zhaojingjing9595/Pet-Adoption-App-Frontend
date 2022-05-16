@@ -1,0 +1,15 @@
+#my-pet-link#my-pet-link:hover, #saved-pet-link#saved-pet-link:hover {
+  color:#563d7c;
+}
+
+#my-pet-link#my-pet-link, #saved-pet-link#saved-pet-link {
+  color:#563d7c7a;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#my-pet-link#my-pet-link.active, #saved-pet-link#saved-pet-link.active {
+
+  color:#6632b4;
+}
